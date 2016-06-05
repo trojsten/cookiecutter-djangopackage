@@ -26,21 +26,6 @@ Then use it in a project::
 
     import {{ cookiecutter.app_name }}
 
-Features
---------
-
-* TODO
-
-Running Tests
---------------
-
-Does the code actually work?
-
-::
-
-    source <YOURVIRTUALENV>/bin/activate
-    (myenv) $ pip install -r requirements-test.txt
-    (myenv) $ python runtests.py
 
 Credits
 ---------
@@ -51,4 +36,4 @@ Tools used in rendering this package:
 *  `cookiecutter-djangopackage`_
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`cookiecutter-djangopackage`: https://github.com/pydanny/cookiecutter-djangopackage
+.. _`cookiecutter-djangopackage`: https://github.com/trojsten/cookiecutter-djangopackage
